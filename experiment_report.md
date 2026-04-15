@@ -12,10 +12,8 @@ Chay `agent_simulation.py` voi 2 bo du lieu va ghi lai ket qua:
 
 | Scenario | Agent Response | Accuracy (1-10) | Notes |
 |----------|----------------|-----------------|-------|
-| Clean Data (`processed_data.csv`) | Testing with CLEAN data:
-Agent: Based on my data, the best choice is Laptop at $1200. | | |
-| Garbage Data (`garbage_data.csv`) | Testing with GARBAGE data:
-Agent: Based on my data, the best choice is Nuclear Reactor at $999999. | | |
+| Clean Data (`processed_data.csv`) | Testing with CLEAN data:Agent: Based on my data, the best choice is Laptop at $1200. | 10| 
+| Garbage Data (`garbage_data.csv`) | Testing with GARBAGE data: Agent: Based on my data, the best choice is Nuclear Reactor at $999999. |10 | 
 
 ---
 
